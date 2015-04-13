@@ -1,0 +1,29 @@
+#practice_questions {
+  font-size: large;
+}
+
+.subject_text {
+  color: #233b8b;
+/*  color: #9e3b30;*/
+  font-weight: bold;
+}
+
+.object_text {
+  color: #909729;
+  font-weight: bold;
+}
+
+.formatted_sentence {
+  padding: 5px;
+}
+
+.form_subject {
+  color: #233b8b;
+/*  color: #9e3b30;*/
+  font-weight: bold;
+}
+
+.form_object {
+  color: #909729;
+  font-weight: bold;
+}
