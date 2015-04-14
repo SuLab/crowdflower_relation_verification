@@ -4,7 +4,7 @@ Last updated 2015-04-14 Tong Shu Li
 
 This directory contains all of the data used for the analysis and figure generation for the Bio-Ontologies paper.
 
-The EU-ADR authors very generously sent us their raw annotation data, as well as their published data, for use in our analysis. These data are not hosted here. The published EU-ADR data can be downloaded from the authors of the BeFree (Bio-Entity Finder and RElation Extraction) project [at this link](www.ibi.imim.es/befree).
+The EU-ADR authors very generously sent us their raw annotation data, as well as their published data, for use in our analysis. These data are not hosted here. The published EU-ADR data can be downloaded from the authors of the BeFree (Bio-Entity Finder and RElation Extraction) project [at this link](http://www.ibi.imim.es/befree).
 
 
 ### File Contents
