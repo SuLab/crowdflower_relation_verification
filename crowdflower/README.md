@@ -1,6 +1,6 @@
 ### CrowdFlower Source Files
 
-Last updated 2015-04-13 Toby
+Last updated 2015-04-13 Tong Shu Li
 
 This directory contains all of the code used in the CrowdFlower task, *Verify drug-disease relationship found in a sentence*, job #710587.
 
